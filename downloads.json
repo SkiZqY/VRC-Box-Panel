@@ -1,0 +1,43 @@
+{
+  "version": "2.5.0",
+  "updatedAt": "2026-06-13",
+  "description": "VRC Box 项目环境依赖下载配置，程序启动时可从项目目录或 GitHub Release 同步最新版本",
+  "items": [
+    {
+      "id": "unityhub",
+      "name": "Unity Hub",
+      "description": "Unity国版 - 团结引擎启动器",
+      "version": "latest",
+      "icon": "/Unity.svg",
+      "platform": "windows",
+      "type": "installer",
+      "fileName": "TuanjieHubSetup.exe",
+      "downloadUrl": "https://public-cdn.tuanjie.cn/hub/prod/TuanjieHubSetup.exe",
+      "checksum": null
+    },
+    {
+      "id": "unityeditor",
+      "name": "Unity 编辑器",
+      "description": "VRChat 改模官方推荐编辑器版本 (2022.3.22f1)",
+      "version": "2022.3.22f1",
+      "icon": "/Unity.svg",
+      "platform": "windows",
+      "type": "installer",
+      "fileName": "UnityEditorSetup.exe",
+      "downloadUrl": "https://pan.vma.cc/pan/d/4b5bcea63f3de8377e69d127d3ce4c1d?ext=exe",
+      "checksum": null
+    },
+    {
+      "id": "alcom",
+      "name": "ALCOM",
+      "description": "快速、开源的 VCC 替代软件",
+      "version": "1.1.6",
+      "icon": "/alcom.svg",
+      "platform": "windows",
+      "type": "installer",
+      "fileName": "ALCOM-1.1.6-x86_64-setup.exe",
+      "downloadUrl": "https://github.com/vrc-get/vrc-get/releases/download/gui-v1.1.6/ALCOM-1.1.6-x86_64-setup.exe",
+      "checksum": null
+    }
+  ]
+}

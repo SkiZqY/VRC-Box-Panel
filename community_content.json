@@ -39,7 +39,25 @@
           "duration": "15:00",
           "up_name": "Rosmontis_Cloud",
           "thumbnail_url": "https://i0.hdslb.com/bfs/archive/b613189137ce0905cdb70eea36e514bcf15987fc.jpg"
-        }
+        },
+        {
+          "title": "2333",
+          "platform": "Bilibili",
+          "embed_url": "https://player.bilibili.com/player.html?bvid=BV1PPE46cEuu&page=1&high_quality=1&danmaku=0",
+          "thumbnail_color": "from-purple-400 via-pink-500 to-red-500",
+          "duration": "23:32",
+          "up_name": "Rosmontis_Cloud",
+          "thumbnail_url": "https://i0.hdslb.com/bfs/archive/e41c509537a56bdb3e8798ad10360ffd79a08f02.jpg"
+        },
+        {
+          "title": "3444",
+          "platform": "Bilibili",
+          "embed_url": "https://player.bilibili.com/player.html?bvid=BV1PPE46cEuu&page=1&high_quality=1&danmaku=0",
+          "thumbnail_color": "from-purple-400 via-pink-500 to-red-500",
+          "duration": "23:32",
+          "up_name": "Rosmontis_Cloud",
+          "thumbnail_url": "https://i0.hdslb.com/bfs/archive/e41c509537a56bdb3e8798ad10360ffd79a08f02.jpg"
+        },
       ]
     }
   ],

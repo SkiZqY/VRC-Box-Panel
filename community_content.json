@@ -83,17 +83,11 @@
           "url": "https://github.com/vrcx-team/VRCX",
           "description": "创作者论坛",
           "color": "from-indigo-500 to-blue-500"
-        },
-        {
-          "name": "BOOTH",
-          "url": "https://booth.pm",
-          "description": "日本虚拟素材商店",
-          "color": "from-pink-500 to-red-500"
         }
       ]
     },
     {
-      "title": "学习 & 教程",
+      "title": "插件 & 资源",
       "icon": "learn",
       "links": [
         {
@@ -125,6 +119,12 @@
           "url": "https://poiyomi.com",
           "description": "着色器资源",
           "color": "from-indigo-500 to-blue-500"
+        },
+        {
+          "name": "BOOTH",
+          "url": "https://booth.pm",
+          "description": "日本虚拟素材商店",
+          "color": "from-pink-500 to-red-500"
         }
       ]
     }

@@ -45,7 +45,7 @@
   ],
   "groups": [
     {
-      "title": "VRChat 官方",
+      "title": "VRChat 官方社区",
       "icon": "official",
       "links": [
         {
@@ -55,118 +55,40 @@
           "color": "from-blue-500 to-cyan-500"
         },
         {
+          "name": "OpenHatch 破売工坊(VB 社区)",
+          "url": "https://vrc.group/HAT.0753",
+          "description": "VB 社区与群组",
+          "color": "from-purple-500 to-pink-500"
+        },
+        {
           "name": "VRChat Docs",
           "url": "https://creators.vrchat.com",
           "description": "创作者文档",
           "color": "from-emerald-500 to-teal-500"
         },
         {
-          "name": "VRChat SDK",
-          "url": "https://vrchat.com/home/download",
-          "description": "SDK 下载",
-          "color": "from-purple-500 to-pink-500"
-        },
-        {
-          "name": "VRChat Status",
-          "url": "https://status.vrchat.com",
-          "description": "服务状态",
+          "name": "OpenHatch/VB社区 总群QQ",
+          "url": "https://qm.qq.com/q/f6ie5YRfu8",
+          "description": "VB改模总群QQ群",
           "color": "from-orange-500 to-amber-500"
         },
         {
-          "name": "VRChat Ask",
-          "url": "https://ask.vrchat.com",
-          "description": "官方问答",
+          "name": "VRChat 中文社区（社区）",
+          "url": "https://vrchatcn.com/site-v3/",
+          "description": "非中文吧官方社区",
           "color": "from-rose-500 to-red-500"
         },
         {
-          "name": "Canopy Forum",
-          "url": "https://canopy.vrchat.com",
+          "name": "VRC X 管理工具（Github）",
+          "url": "https://github.com/vrcx-team/VRCX",
           "description": "创作者论坛",
           "color": "from-indigo-500 to-blue-500"
-        }
-      ]
-    },
-    {
-      "title": "VRChat 社区",
-      "icon": "community",
-      "links": [
-        {
-          "name": "VRCList",
-          "url": "https://vrclist.com",
-          "description": "世界/角色搜索",
-          "color": "from-cyan-500 to-blue-500"
-        },
-        {
-          "name": "VRCbazaar",
-          "url": "https://vrcbazaar.com",
-          "description": "资产市场",
-          "color": "from-pink-500 to-rose-500"
-        },
-        {
-          "name": "Gumroad",
-          "url": "https://gumroad.com",
-          "description": "创作者商店",
-          "color": "from-purple-500 to-indigo-500"
         },
         {
           "name": "BOOTH",
           "url": "https://booth.pm",
-          "description": "日本资产商店",
+          "description": "日本虚拟素材商店",
           "color": "from-pink-500 to-red-500"
-        },
-        {
-          "name": "Discord - VRChat",
-          "url": "https://discord.gg/vrchat",
-          "description": "官方 Discord",
-          "color": "from-indigo-500 to-violet-500"
-        },
-        {
-          "name": "Reddit - r/VRchat",
-          "url": "https://www.reddit.com/r/VRchat",
-          "description": "社区讨论",
-          "color": "from-orange-500 to-red-500"
-        }
-      ]
-    },
-    {
-      "title": "创作者工具 & 资源",
-      "icon": "tools",
-      "links": [
-        {
-          "name": "Unity 下载",
-          "url": "https://unity.com/download",
-          "description": "Unity Hub",
-          "color": "from-slate-500 to-gray-600"
-        },
-        {
-          "name": "Unity Asset Store",
-          "url": "https://assetstore.unity.com",
-          "description": "Unity 资产",
-          "color": "from-gray-500 to-slate-600"
-        },
-        {
-          "name": "Blender 官网",
-          "url": "https://www.blender.org",
-          "description": "3D 建模",
-          "color": "from-orange-500 to-amber-500"
-        },
-        {
-          "name": "Paint Tool SAI",
-          "url": "https://www.systemax.jp/en/sai",
-          "description": "2D 绘图",
-          "color": "from-pink-500 to-rose-500"
-        },
-        {
-          "name": "Clip Studio Paint",
-          "url": "https://www.clipstudio.net",
-          "description": "专业绘图",
-          "color": "from-cyan-500 to-teal-500"
-        },
-        {
-          "name": "Adobe Substance",
-          "url": "https://www.adobe.com/creativecloud.html",
-          "description": "材质制作",
-          "color": "from-red-500 to-orange-500"
         }
       ]
     },
@@ -175,22 +97,16 @@
       "icon": "learn",
       "links": [
         {
-          "name": "VRChat 官方教程",
-          "url": "https://www.youtube.com/@VRChat",
-          "description": "YouTube 频道",
-          "color": "from-red-500 to-rose-500"
-        },
-        {
-          "name": "Bilibili VRChat",
-          "url": "https://search.bilibili.com/all?keyword=VRChat",
-          "description": "B 站教程",
-          "color": "from-pink-500 to-cyan-500"
-        },
-        {
           "name": "Modular Avatar",
           "url": "https://modular-avatar.nadena.dev",
           "description": "角色合并工具",
           "color": "from-violet-500 to-purple-500"
+        },
+        {
+          "name": "VRCFury",
+          "url": "https://vrcfury.com",
+          "description": "非破坏性工具",
+          "color": "from-amber-500 to-orange-500"
         },
         {
           "name": "Animator As Code",
@@ -199,10 +115,10 @@
           "color": "from-teal-500 to-cyan-500"
         },
         {
-          "name": "VRCFury",
-          "url": "https://vrcfury.com",
-          "description": "非破坏性工具",
-          "color": "from-amber-500 to-orange-500"
+          "name": "lilToon",
+          "url": "https://lilxyzw.github.io/lilToon/",
+          "description": "主流着色器资源",
+          "color": "from-pink-500 to-cyan-500"
         },
         {
           "name": "Poiyomi Shader",

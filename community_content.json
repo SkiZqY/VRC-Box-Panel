@@ -5,106 +5,40 @@
       "color": "from-purple-500 to-pink-500",
       "videos": [
         {
-          "title": "VRchat 新手入门：从零开始创建你的第一个角色",
+          "title": "软件安装与模型上传",
           "platform": "Bilibili",
           "embed_url": "https://player.bilibili.com/player.html?bvid=BV1PPE46cEuu&page=1&high_quality=1&danmaku=0",
           "thumbnail_color": "from-purple-400 via-pink-500 to-red-500",
-          "duration": "24:12",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
+          "duration": "23:32",
+          "up_name": "Rosmontis_Cloud",
+          "thumbnail_url": "https://i0.hdslb.com/bfs/archive/e41c509537a56bdb3e8798ad10360ffd79a08f02.jpg"
         },
         {
-          "title": "如何上传你的第一个 VRChat 角色 完整流程教学",
+          "title": "Unity MA插件教程 实战化跟练",
           "platform": "Bilibili",
           "embed_url": "https://player.bilibili.com/player.html?bvid=BV16EEh6KEeC&page=1&high_quality=1&danmaku=0",
           "thumbnail_color": "from-amber-400 via-orange-500 to-red-500",
-          "duration": "18:42",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
+          "duration": "43:01",
+          "up_name": "Rosmontis_Cloud",
+          "thumbnail_url": "https://i0.hdslb.com/bfs/archive/e41c509537a56bdb3e8798ad10360ffd79a08f02.jpg"
         },
         {
-          "title": "Unity 2022 VRChat SDK 3.0 完整设置指南",
+          "title": "调整模型骨骼+添加装饰",
           "platform": "Bilibili",
           "embed_url": "https://player.bilibili.com/player.html?bvid=BV16fJ56ZELg&page=1&high_quality=1&danmaku=0",
           "thumbnail_color": "from-blue-400 via-cyan-500 to-teal-500",
-          "duration": "26:08",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
+          "duration": "43:42",
+          "up_name": "Rosmontis_Cloud",
+          "thumbnail_url": "https://i0.hdslb.com/bfs/archive/e41c509537a56bdb3e8798ad10360ffd79a08f02.jpg"
         },
         {
-          "title": "Modular Avatar 使用教程 — 非破坏性合并工具",
+          "title": "Audio Link发卡如何安装",
           "platform": "Bilibili",
           "embed_url": "https://player.bilibili.com/player.html?bvid=BV1tjJp6bEm3&page=1&high_quality=1&danmaku=0",
           "thumbnail_color": "from-emerald-400 via-teal-500 to-cyan-500",
-          "duration": "22:15",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
-        }
-      ]
-    },
-    {
-      "title": "SDK设置教程",
-      "color": "from-blue-500 to-cyan-500",
-      "videos": [
-        {
-          "title": "VRChat SDK3 Avatar 安装与环境配置完整教程",
-          "platform": "Bilibili",
-          "embed_url": "https://player.bilibili.com/player.html?bvid=BV1PPE46cEuu&page=1&high_quality=1&danmaku=0",
-          "thumbnail_color": "from-indigo-400 via-blue-500 to-cyan-500",
-          "duration": "24:12",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
-        },
-        {
-          "title": "Unity Hub 多版本 Unity 管理与项目迁移",
-          "platform": "Bilibili",
-          "embed_url": "https://player.bilibili.com/player.html?bvid=BV16EEh6KEeC&page=1&high_quality=1&danmaku=0",
-          "thumbnail_color": "from-cyan-400 via-blue-500 to-indigo-500",
-          "duration": "18:42",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
-        },
-        {
-          "title": "VR Chat Creator Companion (VCC) 使用入门",
-          "platform": "Bilibili",
-          "embed_url": "https://player.bilibili.com/player.html?bvid=BV16fJ56ZELg&page=1&high_quality=1&danmaku=0",
-          "thumbnail_color": "from-sky-400 via-cyan-500 to-blue-500",
-          "duration": "26:08",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
-        }
-      ]
-    },
-    {
-      "title": "工具与插件使用",
-      "color": "from-emerald-500 to-teal-500",
-      "videos": [
-        {
-          "title": "Modular Avatar 完整功能演示：非破坏性角色制作",
-          "platform": "Bilibili",
-          "embed_url": "https://player.bilibili.com/player.html?bvid=BV1tjJp6bEm3&page=1&high_quality=1&danmaku=0",
-          "thumbnail_color": "from-emerald-400 via-teal-500 to-cyan-500",
-          "duration": "22:15",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
-        },
-        {
-          "title": "POI 材质着色器入门与常见效果实现",
-          "platform": "Bilibili",
-          "embed_url": "https://player.bilibili.com/player.html?bvid=BV1PPE46cEuu&page=1&high_quality=1&danmaku=0",
-          "thumbnail_color": "from-violet-400 via-purple-500 to-pink-500",
-          "duration": "24:12",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
-        },
-        {
-          "title": "Dynamic Bone / PhysBone 物理骨骼设置",
-          "platform": "Bilibili",
-          "embed_url": "https://player.bilibili.com/player.html?bvid=BV16EEh6KEeC&page=1&high_quality=1&danmaku=0",
-          "thumbnail_color": "from-lime-400 via-green-500 to-emerald-500",
-          "duration": "18:42",
-          "up_name": "VRChat 教学频道",
-          "thumbnail_url": ""
+          "duration": "15:00",
+          "up_name": "Rosmontis_Cloud",
+          "thumbnail_url": "https://i0.hdslb.com/bfs/archive/b613189137ce0905cdb70eea36e514bcf15987fc.jpg"
         }
       ]
     }

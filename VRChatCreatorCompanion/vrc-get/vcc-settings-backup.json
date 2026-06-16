@@ -1,0 +1,36 @@
+{
+  "pathToUnityExe": "",
+  "pathToUnityHub": "C:\\Program Files\\Unity Hub\\Unity Hub.exe",
+  "userProjects": [
+    "C:\\Users\\Administrator\\Desktop\\233"
+  ],
+  "unityEditors": [],
+  "preferredUnityEditors": {},
+  "defaultProjectPath": "C:\\Users\\Administrator\\Desktop",
+  "lastUIState": 0,
+  "skipUnityAutoFind": false,
+  "userPackageFolders": [],
+  "windowSizeData": {
+    "width": 1300,
+    "height": 798,
+    "x": 207,
+    "y": 119
+  },
+  "skipRequirements": false,
+  "lastNewsUpdate": "2026-04-25T01:01:28.9504932Z",
+  "allowPii": false,
+  "projectBackupPath": "C:\\Users\\Administrator\\AppData\\Local\\VRChatCreatorCompanion\\ProjectBackups",
+  "showPrereleasePackages": true,
+  "trackCommunityRepos": true,
+  "selectedProviders": 3,
+  "lastSelectedProject": "",
+  "userRepos": [
+    {
+      "localPath": "C:\\Users\\Administrator\\AppData\\Local\\VRChatCreatorCompanion\\Repos/dev.nadena.vpm.json",
+      "name": "bd_",
+      "url": "https://vpm.nadena.dev/vpm.json",
+      "id": "dev.nadena.vpm",
+      "headers": {}
+    }
+  ]
+}

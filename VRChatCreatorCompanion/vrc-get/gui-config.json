@@ -1,0 +1,33 @@
+{
+  "guiHiddenRepositories": [],
+  "hideLocalUserPackages": false,
+  "windowSize": {
+    "width": 1300,
+    "height": 800
+  },
+  "fullscreen": false,
+  "language": "zh_hans",
+  "theme": "system",
+  "backupFormat": "default",
+  "projectSorting": "lastModified",
+  "releaseChannel": "stable",
+  "useAlcomForVccProtocol": true,
+  "setupProcessProgress": 31,
+  "defaultUnityArguments": null,
+  "logsLevel": [
+    "Debug",
+    "Error",
+    "Warn",
+    "Info"
+  ],
+  "guiAnimation": true,
+  "guiCompact": false,
+  "projectViewMode": "List",
+  "unityHubAccessMethod": "ReadConfig",
+  "recentProjectLocations": [
+    "C:\\Users\\Administrator\\Desktop"
+  ],
+  "excludeVpmPackagesFromBackup": false,
+  "favoriteTemplates": [],
+  "lastUsedTemplate": "com.anatawa12.vrc-get.vrchat.avatars"
+}
